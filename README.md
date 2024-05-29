@@ -1,4 +1,24 @@
-These are cards for use in your portfolio for example like cards skills. I hope you like my cards.
+CardSkill
+Welcome to the CardSkill repository! This project provides a set of beautifully designed cards that you can use to showcase your skills in your portfolio. Whether you're a developer, designer, or any other professional, these cards will help you present your abilities in a visually appealing way.
+
+Features
+Responsive Design: The cards are fully responsive, ensuring they look great on all devices.
+Customizable: Easily modify the design and content to fit your personal style and needs.
+Modern Aesthetics: Sleek and modern design to make your portfolio stand out.
+Easy Integration: Simple HTML and CSS code that you can quickly integrate into your existing portfolio.
+Preview
+
+Usage
+Clone the Repository:
+bash
+Copiar código
+git clone https://github.com/yourusername/CardSkill.git
+Navigate to the Project Directory:
+bash
+Copiar código
+cd CardSkill
+Open the Index File:
+Open index.html in your browser to see the cards in action.
 
 ![Ashampoo_Snap_2024 05 29_15h05m16s_010_](https://github.com/Brendaur11/CardSkill/assets/113529315/712155cb-a33b-4ed1-9116-8701e5437577)
 

@@ -7,7 +7,7 @@ Welcome to the CardSkill repository! This project provides a set of beautifully 
 Responsive Design: The cards are fully responsive, ensuring they look great on all devices.
 - Customizable: Easily modify the design and content to fit your personal style and needs.
 - Modern Aesthetics: Sleek and modern design to make your portfolio stand out.
-- Easy Integration: Simple HTML and CSS code that you can quickly integrate into your existing portfolio.
+- Easy Integration: Simple HTML, TailwindCSS and JavaScript code that you can quickly integrate into your existing portfolio.
 
 ## **Preview**
 
@@ -27,6 +27,3 @@ Responsive Design: The cards are fully responsive, ensuring they look great on a
 ## **Feedback**
 
 I hope you find these cards useful for your portfolio. If you have any feedback or questions, please feel free to contact me at urquizabrenda11@gmail.com.
-
-
-

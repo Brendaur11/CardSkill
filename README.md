@@ -9,6 +9,10 @@ Responsive Design: The cards are fully responsive, ensuring they look great on a
 - Modern Aesthetics: Sleek and modern design to make your portfolio stand out.
 - Easy Integration: Simple HTML and CSS code that you can quickly integrate into your existing portfolio.
 
+## **Preview**
+
+![Ashampoo_Snap_2024 05 29_15h05m16s_010_](https://github.com/Brendaur11/CardSkill/assets/113529315/712155cb-a33b-4ed1-9116-8701e5437577)
+
 ## **Usage**
 
 1. Clone the Repository:
@@ -20,6 +24,9 @@ Responsive Design: The cards are fully responsive, ensuring they look great on a
 3. Open the Index File:
 	Open index.html in your browser to see the cards in action.
 
-![Ashampoo_Snap_2024 05 29_15h05m16s_010_](https://github.com/Brendaur11/CardSkill/assets/113529315/712155cb-a33b-4ed1-9116-8701e5437577)
+## **Feedback**
+
+I hope you find these cards useful for your portfolio. If you have any feedback or questions, please feel free to contact me at [urquizabrenda11@gmail.com].
+
 
 

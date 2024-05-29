@@ -11,7 +11,8 @@ Responsive Design: The cards are fully responsive, ensuring they look great on a
 
 ## **Preview**
 
-![Ashampoo_Snap_2024 05 29_15h05m16s_010_](https://github.com/Brendaur11/CardSkill/assets/113529315/712155cb-a33b-4ed1-9116-8701e5437577)
+![Ashampoo_Snap_2024 05 29_15h05m16s_010_](https://github.com/Brendaur11/CardSkill/assets/113529315/e94b90f7-476c-440b-a65b-db31a840a2dc)
+
 
 ## **Usage**
 

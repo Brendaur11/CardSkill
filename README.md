@@ -26,7 +26,7 @@ Responsive Design: The cards are fully responsive, ensuring they look great on a
 
 ## **Feedback**
 
-I hope you find these cards useful for your portfolio. If you have any feedback or questions, please feel free to contact me at [urquizabrenda11@gmail.com].
+I hope you find these cards useful for your portfolio. If you have any feedback or questions, please feel free to contact me at urquizabrenda11@gmail.com.
 
 
 

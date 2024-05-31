@@ -1,0 +1,19 @@
+.swiper-hero {
+  width: 100%;
+  max-width: 1600px;
+}
+
+.swiper-hero .swiper-slide {
+    width: 280px;
+    /* height: 280px; */
+}
+
+.swiper-hero img {
+    height: 255px;
+    width: 20%;
+    object-fit: cover;
+}
+
+.content-skills {
+    width: 100%;
+}
